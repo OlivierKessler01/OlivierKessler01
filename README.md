@@ -11,8 +11,15 @@ Glad you found your way here :)
 I also do some competitive programming : 
 * Leetcode account : [Leetcode](https://leetcode.com/olivierkessler/)
 
-And try and do sec/capture the flag:
+In the next months, I'll be starting sec/capture the flag:
 * CTF account : [HackThe Box](https://app.hackthebox.com/profile/1637881)
+
+📖 Books I've been studying on my free time for the last 3 years:
+* Introduction to algorithms - Cormen, Leiserson, Rivest, Stein - MIT press
+* Computer systems : A Programmer’s perspective - Bryant R. - Pearson
+* Operating systems : Three easy pieces - Arpaci-Dusseau A. R
+* Designing data-intensive applications - Kleppmann M. - O’Reilly
+
   
 <!--
 **OlivierKessler01/OlivierKessler01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
