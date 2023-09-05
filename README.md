@@ -8,11 +8,6 @@ Glad you found your way here :)
 
 ⚡ Deep down what I love is low-level/system programming. Though I never had the chance to profesionnally work with it.
 
-I also do some competitive programming : 
-* Leetcode account : [Leetcode](https://leetcode.com/olivierkessler/)
-
-In the next months, I'll be starting sec/capture the flag:
-* CTF account : [HackThe Box](https://app.hackthebox.com/profile/1637881)
 
 📖 Books I've been studying on my free time for the last 3 years:
 * Introduction to algorithms - Cormen, Leiserson, Rivest, Stein - MIT press
