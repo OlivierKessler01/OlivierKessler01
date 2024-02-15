@@ -6,7 +6,7 @@ Glad you found your way here :)
 
 🌱 When I find time, I contribute to open source, mostly personnal projects, you'll find stuff I helped build as my pinned repositories.
 
-⚡ Deep down what I love is low-level/system programming. Though I never had the chance to profesionnally work with it.
+⚡ Deep down I love is low-level/system programming. Though I never had the chance to profesionnally work with it.
 
 
 📖 Books I've been studying on my free time for the last 3 years:
@@ -14,6 +14,7 @@ Glad you found your way here :)
 * Computer systems : A Programmer’s perspective - Bryant R. - Pearson
 * Operating systems : Three easy pieces - Arpaci-Dusseau A. R
 * Designing data-intensive applications - Kleppmann M. - O’Reilly
+* System Design Interview - Wu A. - ByteByteGo
 
   
 <!--
