@@ -9,10 +9,11 @@ Glad you found your way here :)
 ⚡ Deep down I love is low-level/system programming. Though I never had the chance to profesionnally work with it.
 
 
-📖 Books I've been studying on my free time for the last 3 years:
+📖 Books I've been studying on my free time for the last 2 years:
 * Introduction to algorithms - Cormen, Leiserson, Rivest, Stein - MIT press
 * Computer systems : A Programmer’s perspective - Bryant R. - Pearson
 * Operating systems : Three easy pieces - Arpaci-Dusseau A. R
+* Engineering a Compiler - Cooper, Keith D., Torczon, Linda - Elsevier
 * Designing data-intensive applications - Kleppmann M. - O’Reilly
 * System Design Interview - Wu A. - ByteByteGo
 
