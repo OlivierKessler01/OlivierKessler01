@@ -6,7 +6,7 @@ Glad you found your way here :)
 
 🌱 When I find time, I contribute to open source, mostly personnal projects, you'll find stuff I helped build as my pinned repositories.
 
-⚡ Deep down I love is low-level/system programming. Though I never had the chance to profesionnally work with it.
+⚡ Deep down I love low-level programming and hardware. Though I never had the chance to profesionnally work with it.
 
 
 📖 Books I've been studying on my free time for the last 2 years:
