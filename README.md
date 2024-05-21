@@ -4,8 +4,6 @@ Glad you found your way here :)
 
 🔭 You'll currently find me building MLOps and distributed computing tools at @bioserenity.com. 
 
-🌱 When I find time, I contribute to open source, mostly personnal projects, you'll find stuff I helped build as my pinned repositories.
-
 ⚡ I absolutely love low-level programming and EE.
 
 
