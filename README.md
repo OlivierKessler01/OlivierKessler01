@@ -4,7 +4,7 @@ Glad you found your way here :)
 
 🔭 You'll currently find me building MLOps and distributed computing tools at @bioserenity.com using Python 🐍. 
 
-⚡ I absolutely love low-level programming and EE. As well as reading.
+⚡ I absolutely love low-level programming and EE.
 
 📖 Favorite books:
 * Introduction to algorithms - Cormen, Leiserson, Rivest, Stein - MIT press
