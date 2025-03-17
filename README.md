@@ -11,5 +11,6 @@ Glad you found your way here :)
 * Computer systems : A Programmer’s perspective - Bryant R. - Pearson
 * Operating systems : Three easy pieces - Arpaci-Dusseau A. R
 * Engineering a Compiler - Cooper, Keith D., Torczon, Linda - Elsevier
+* Calculus - Spivak M. - Cambridge
 
 🔭 In my free time, I work on `Columnar`, a column-oriented database engine, featuring an ANSI SQL parser and high aggregation performances.
