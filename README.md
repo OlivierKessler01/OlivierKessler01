@@ -13,4 +13,4 @@ Glad you found your way here :)
 * Engineering a Compiler - Cooper, Keith D., Torczon, Linda - Elsevier
 * Calculus - Spivak M. - Cambridge
 
-🔭 In my free time, I work on `Columnar`, a column-oriented database engine, featuring an ANSI SQL parser and high aggregation performances.
+🔭 In my free time, I work on `Columnar`, a column-oriented database engine, featuring an ANSI SQL parser and high aggregation performances. Got also on `Gontainers`, a Linux container runtime compatible with k8s.
